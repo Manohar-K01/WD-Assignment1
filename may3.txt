@@ -1,0 +1,22 @@
+
+<Doctype>!html>
+<html>
+<body>
+<em>This is test data</em><br>
+<Strong>This is the test data</strong><br>
+<b>This is the data<b><br>
+<i>This the data</i><br>
+<u> this is the data </u><br>
+<S> this is the data <s/><br>
+<Small>This is the data </small><br>
+
+this the test<dnf>data</dnf><br>
+<q>this is the data</q><br>
+<abbr tittle="Web Design">WD</abbr><br>
+water=h<sub>2</sub>o<br>
+E=mc<sup>2</sup><br>
+<Mark>This is the test data</mark><br>
+<ins>this is the data</ins><br>
+<del> This is the data</del><br>
+</body>
+</html>
